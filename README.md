@@ -7,3 +7,9 @@
 ## Esfera ket
 
 ![imgen2](https://github.com/fernando-b15/Cnyt-lab1/blob/master/esfera2.PNG)
+
+## Esfera qubit
+
+![imgen3](https://github.com/fernando-b15/Cnyt-lab1/blob/master/esfera3.PNG)
+
+
